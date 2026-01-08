@@ -1,0 +1,16 @@
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\dto\CreateIntersectionRequest.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\dto\HistoryItem.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\dto\IntersectionController.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\dto\PhaseDto.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\dto\ReplaceSequenceRequest.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\dto\StateResponse.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\model\Direction.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\model\LightColor.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\model\Phase.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\model\SignalState.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\model\StateChange.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\repo\IntersectionRegistry.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\service\IntersectionRunner.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\service\TrafficService.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\TrafficLightApplication.java
+C:\Natwest\traffic-light-controller\src\main\java\com\example\traffic\util\SignalValidator.java

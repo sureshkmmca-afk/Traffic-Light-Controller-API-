@@ -1,0 +1,16 @@
+com\example\traffic\model\Direction.class
+com\example\traffic\dto\CreateIntersectionRequest.class
+com\example\traffic\dto\StateResponse.class
+com\example\traffic\model\Phase.class
+com\example\traffic\TrafficLightApplication.class
+com\example\traffic\model\SignalState.class
+com\example\traffic\dto\HistoryItem.class
+com\example\traffic\model\LightColor.class
+com\example\traffic\service\IntersectionRunner.class
+com\example\traffic\model\StateChange.class
+com\example\traffic\dto\PhaseDto.class
+com\example\traffic\dto\ReplaceSequenceRequest.class
+com\example\traffic\service\TrafficService.class
+com\example\traffic\util\SignalValidator.class
+com\example\traffic\dto\IntersectionController.class
+com\example\traffic\repo\IntersectionRegistry.class
